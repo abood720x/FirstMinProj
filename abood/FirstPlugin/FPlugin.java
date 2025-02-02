@@ -1,3 +1,6 @@
+// ## AKA SERVER ##
+
+
 package com.abood.FirstPlugin;
 
 import org.bukkit.ChatColor;
